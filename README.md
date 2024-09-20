@@ -4,9 +4,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ravindusenavirathna&label=Profile%20views&color=0e75b6&style=flat" alt="ravindusenavirathna" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravindusenavirathna" alt="ravindusenavirathna" /></a> </p>
-🌱 I’m currently learning <stong>Spring Boot, TensorFlow</stong> </br>
-💬 Ask me about <stong>React, Python, C</stong></br>
-⚡ Fun fact <stong>Love coding</stong>
+🌱 I’m currently learning <strong>Spring Boot, TensorFlow</strong> </br>
+💬 Ask me about <strong>React, Python, C</strong></br>
+⚡ Fun fact <strong>Love coding</stong>
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -135,7 +135,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
-###
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindusenavirathna&show_icons=true&locale=en&layout=compact" alt="ravindusenavirathna" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindusenavirathna&" alt="ravindusenavirathna" /></p>
