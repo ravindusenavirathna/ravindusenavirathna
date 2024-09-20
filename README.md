@@ -142,7 +142,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://fb.com/ravindubsenavirathna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="26" height="20" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="39" height="30" alt="facebook logo"  />
   </a>
   <a href="https://instagram.com/ravindu__senavirathna" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo"  />
