@@ -133,8 +133,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  /></br>
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
+</div></br>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravindusenavirathna&show_icons=true&locale=en&layout=compact" alt="ravindusenavirathna" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindusenavirathna&" alt="ravindusenavirathna" /></p>
