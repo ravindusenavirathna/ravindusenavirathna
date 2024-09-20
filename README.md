@@ -141,34 +141,34 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://fb.com/ravindubsenavirathna" target="_blank">
+  <a href="https://fb.com/ravindubsenavirathna" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="39" height="30" alt="facebook logo"  />
   </a>
   <a href="https://instagram.com/ravindu__senavirathna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="26" height="20" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="30" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/ravindusasanka_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="26" height="20" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="39" height="30" alt="twitter logo"  />
   </a>
   <a href="https://www.youtube.com/@rzredm" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="26" height="20" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="39" height="30" alt="youtube logo"  />
   </a>
   <a href="https://t.me/Bass_Music_Network_Channel" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="26" height="20" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="39" height="30" alt="telegram logo"  />
   </a>
   <a href="https://discord.gg/f5tPUNwQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="26" height="20" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="39" height="30" alt="discord logo"  />
   </a>
   <a href="https://stackoverflow.com/users/19777538" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="26" height="20" alt="stackoverflow logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="39" height="30" alt="stackoverflow logo"  />
   </a>
   <a href="https://medium.com/@ravindusasanka" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="20" height="20" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="30" height="30" alt="medium logo"  />
   </a>
   <a href="https://linkedin.com/in/ravindu-senavirathna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="20" height="20" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/ravindusasanka01" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="26" height="20" alt="hackerrank logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="39" height="30" alt="hackerrank logo"  />
   </a>
 </p>
