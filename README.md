@@ -35,6 +35,7 @@
 ##
 
 <div align=center>
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://fb.com/ravindubsenavirathna)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ravindu__senavirathna)
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fravindusasanka_)](https://twitter.com/ravindusasanka_)
@@ -43,4 +44,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/f5tPUNwQ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-senavirathna)
 [![GMail](https://img.shields.io/badge/Gmail-333333?style=flat-&logo=gmail&logoColor=red)](mailto:ravindusasanka0514@gmail.com)
+
 </div>
