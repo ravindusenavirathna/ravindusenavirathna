@@ -21,7 +21,7 @@
 
 <div align=center>
 <img src="https://skillicons.dev/icons?i=python,java,c,php,nodejs,html,css,js,ts,react,vite,mui,bootstrap,arduino">
-<img src="https://skillicons.dev/icons?i=fastapi,npm,git,tensorflow,opencv,scikitlearn,pytorch,spring,mongodb,mysql,firebase,threejs,azure">
+<img src="https://skillicons.dev/icons?i=fastapi,bash,git,tensorflow,opencv,scikitlearn,pytorch,spring,mongodb,mysql,firebase,threejs,azure">
 <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,blender,sublime,atom,github,androidstudio,figma,anaconda">
 </div>
 
