@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Ravindu Senavirathna</h1>
 
-<p align= "justify" ><strong>BSc (Hons) in Artificial Intelligence undergraduate at the University of Moratuwa</strong> in Sri Lanka. Passionate about leveraging AI and full-stack development, I focus on crafting innovative solutions to tackle real-world challenges.</p>
+<p align= "justify" ><strong>BSc (Hons) in Artificial Intelligence</strong> undergraduate at the <strong>University of Moratuwa</strong> in Sri Lanka. Passionate about leveraging AI and full-stack development, I focus on crafting innovative solutions to tackle real-world challenges.</p>
 
 <div align="center">
 
@@ -9,6 +9,8 @@
 🌱 I’m currently learning **Spring Boot, TensorFlow**
 
 💬 Ask me about **React, Python, C**
+
+⚡ Fun fact **Love Bass Music & Dubstep**
 </div>
 
 <div align="center">
