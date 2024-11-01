@@ -6,7 +6,7 @@
 
 <div align="center">
 
-🔭 _I’m currently working on [`ExploreLanka`](https://github.com/ravindusenavirathna/ExploreLanka) & [`fontReco`](https://github.com/ravindusenavirathna/fontreco)_
+🔭 _I’m currently working on_ [`ExploreLanka`](https://github.com/ravindusenavirathna/ExploreLanka) _&_ [`fontReco`](https://github.com/ravindusenavirathna/fontreco)
 
 🌱 _I’m currently learning **Spring Boot, TensorFlow**_
 
