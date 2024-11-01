@@ -2,17 +2,17 @@
 
 <h1 align="center"> Hi, I'm Ravindu Senavirathna</h1>
 
-<p align= "justify" ><strong>BSc (Hons) in Artificial Intelligence</strong> undergraduate at the <strong>University of Moratuwa</strong> in Sri Lanka. Passionate about leveraging AI and full-stack development, I focus on crafting innovative solutions to tackle real-world challenges.</p>
+<p align= "justify" >pursuing <strong>BSc (Hons) in Artificial Intelligence</strong> at the <strong>University of Moratuwa</strong>, Sri Lanka. With a strong background in machine learning and web technologies, I am enthusiastic about utilizing AI and full-stack development.</p>
 
 <div align="center">
 
-🔭 I’m currently working on [ExploreLanka](https://github.com/ravindusenavirathna/ExploreLanka) & [fontReco](https://github.com/ravindusenavirathna/fontreco)
+🔭 _I’m currently working on [`ExploreLanka`](https://github.com/ravindusenavirathna/ExploreLanka) & [`fontReco`](https://github.com/ravindusenavirathna/fontreco)_
 
-🌱 I’m currently learning **Spring Boot, TensorFlow**
+🌱 _I’m currently learning **Spring Boot, TensorFlow**_
 
-💬 Ask me about **React, Python, C**
+💬 _Ask me about **React, Python, C**_
 
-⚡ Fun fact **Love Bass Music & Dubstep**
+⚡ _Fun fact **I Love Bass Music & Dubstep**_
 
 </div>
 
