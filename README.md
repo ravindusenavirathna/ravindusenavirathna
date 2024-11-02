@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Ravindu Senavirathna</h1>
 
-<p align= "justify" >pursuing <strong>BSc (Hons) in Artificial Intelligence</strong> at the <strong>University of Moratuwa</strong>, Sri Lanka. With a strong background in machine learning and web technologies, I am enthusiastic about utilizing AI and full-stack development.</p>
+<p align= "justify" >Currently pursuing <strong>BSc (Hons) in Artificial Intelligence</strong> at the <strong>University of Moratuwa</strong>, Sri Lanka. With a strong background in Machine Learning and Web Technologies, I am enthusiastic about utilizing AI and full-stack development. I'm comfortable with Python, Java, C, and React, and I'm always looking to learn more and take on new challenges in AI and software development.</p>
 
 <div align="center">
 
@@ -14,12 +14,6 @@
 
 ⚡ _Fun fact **I Love Bass Music & Dubstep**_
 
-</div>
-
-<!-- PROFILE VIEWS -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ravindusenavirathna&label=Profile%20views&color=0e75b6&style=flat" alt="ravindusenavirathna" />
 </div>
 
 ##
