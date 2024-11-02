@@ -21,9 +21,9 @@
 <!-- SKILL ICONS -->
 
 <div align=center>
-<img src="https://skillicons.dev/icons?i=python,java,c,php,nodejs,html,css,js,ts,react,vite,mui,bootstrap,arduino">
-<img src="https://skillicons.dev/icons?i=fastapi,bash,git,tensorflow,opencv,scikitlearn,pytorch,spring,mongodb,mysql,firebase,threejs,azure">
-<img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,clion,blender,sublime,atom,github,androidstudio,figma,anaconda">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,arduino,mongodb,python,vite,mui,react,nodejs,java,php">
+<img src="https://skillicons.dev/icons?i=fastapi,git,bootstrap,opencv,azure,tensorflow,firebase,spring,pytorch,scikitlearn,anaconda,mysql,threejs">
+<img src="https://skillicons.dev/icons?i=atom,sketchup,idea,figma,androidstudio,blender,octave,sublime,vscode,linux,bash,github">
 </div>
 
 ##
@@ -31,10 +31,10 @@
 <!-- STATISTICS -->
 
 <div align=center>
-<img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&theme=transparent&border_radius=10&background=45,3613135F,12112C&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454&v=2" alt="GitHub Streak Stats"/>
+<img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&theme=transparent&border_radius=10&background=45,3613135F,12112C&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454&v=3" alt="GitHub Streak Stats"/>
 <br/>
-<img height=160 src="https://github-readme-stats.vercel.app/api?username=ravindusenavirathna&show_icons=true&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&v=2" alt="GitHub stats"/>
-<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusenavirathna&layout=compact&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&v=2" alt="Top languages"/>
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=ravindusenavirathna&show_icons=true&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&v=3" alt="GitHub stats"/>
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusenavirathna&layout=compact&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&v=3" alt="Top languages"/>
 </div>
 
 ##
