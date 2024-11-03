@@ -1,24 +1,28 @@
-<!-- HEADER -->
+<!--------------------------------------------------------------------------------------- HEADER --------------------------------------------------------------------------------------->
 
 <h1 align="center"> Hi, I'm Ravindu Senavirathna</h1>
+
+<!--------------------------------------------------------------------------------------- ABOUT --------------------------------------------------------------------------------------->
 
 <p align= "justify" >Currently pursuing <strong>BSc (Hons) in Artificial Intelligence</strong> at the <strong>University of Moratuwa</strong>, Sri Lanka. With a strong background in Machine Learning and Web Technologies, I am enthusiastic about utilizing AI and full-stack development. I'm comfortable with Python, Java, C, and React, and I'm always looking to learn more and take on new challenges in AI and software development.</p>
 
 <div align="center">
 
-🔭 _I’m currently working on_ [`ExploreLanka`](https://github.com/ravindusenavirathna/ExploreLanka) _&_ [`fontReco`](https://github.com/ravindusenavirathna/fontreco)
+🔭 I’m currently working on [**`ExploreLanka`**](https://github.com/ravindusenavirathna/ExploreLanka) & [**`fontReco`**](https://github.com/ravindusenavirathna/fontreco)
 
-🌱 _I’m currently learning **Spring Boot, TensorFlow**_
+🌱 I’m currently learning **Spring Boot, TensorFlow**
 
-💬 _Ask me about **React, Python, C**_
+💬 Ask me about **React, Python, C**
 
-⚡ _Fun fact **I Love Bass Music & Dubstep**_
+📄 Know about my experiences [**`Resume`**](https://drive.google.com/file/d/1J8sFWYc1g52olokY4hIcoyyDD0QDGZkL/view?usp=drive_link)
+
+⚡ Fun fact **I Love Bass Music & Dubstep**
 
 </div>
 
 ##
 
-<!-- SKILL ICONS -->
+<!--------------------------------------------------------------------------------------- SKILL ICONS --------------------------------------------------------------------------------------->
 
 <div align="center">
   <img height=35 src="https://skillicons.dev/icons?i=python,java,c,php,mongodb,html,css,react,js,ts,mysql,vite,spring" alt="1">
@@ -28,7 +32,7 @@
 
 ##
 
-<!-- STATISTICS -->
+<!--------------------------------------------------------------------------------------- STATISTICS --------------------------------------------------------------------------------------->
 
 <div align=center>
 <img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&theme=transparent&border_radius=10&background=45,3613135F,12112C&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454&v=4" alt="GitHub Streak Stats"/>
@@ -39,15 +43,15 @@
 
 ##
 
-<div align=center>
+<!--------------------------------------------------------------------------------------- SOCIAL MEDIA --------------------------------------------------------------------------------------->
 
-<!-- SOCIAL MEDIA -->
+<div align=center>
 
 [![Facebook](https://img.shields.io/badge/facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ravindubsenavirathna)
 [![Instagram](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ravindu__senavirathna)
 [![Twitter](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ravindusasanka_)
 [![Telegram](https://img.shields.io/badge/telegram-12100E?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ravindusenavirathna)
 [![LinkedIn](https://img.shields.io/badge/linkedin-12100E?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravindu-senavirathna)
+[![GMail](https://img.shields.io/badge/gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindusasanka0514@gmail.com)
 
 </div>
-
