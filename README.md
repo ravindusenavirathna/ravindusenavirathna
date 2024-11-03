@@ -35,10 +35,10 @@
 <!--------------------------------------------------------------------------------------- STATISTICS --------------------------------------------------------------------------------------->
 
 <div align=center>
-<img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&theme=transparent&border_radius=10&background=45,3613135F,12112C&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454&v=4" alt="GitHub Streak Stats"/>
+<img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&theme=transparent&border_radius=10&background=45,3613135F,12112C&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454" alt="GitHub Streak Stats"/>
 <br/>
-<img height=160 src="https://github-readme-stats.vercel.app/api?username=ravindusenavirathna&show_icons=true&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&v=4" alt="GitHub stats"/>
-<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusenavirathna&layout=compact&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&v=4" alt="Top languages"/>
+<img height=160 src="https://github-readme-stats.vercel.app/api?username=ravindusenavirathna&show_icons=true&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&count_private=true" alt="GitHub stats"/>
+<img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusenavirathna&layout=compact&theme=transparent&border_radius=10&bg_color=45,3613135F,12112C&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&count_private=true" alt="Top languages"/>
 </div>
 
 ##
