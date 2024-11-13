@@ -11,7 +11,7 @@
 <!--------------------------------------------------------------------------------------- FACTS --------------------------------------------------------------------------------------->
 
 <div>
-<img height=200 align="right" src="https://github.com/ravindusenavirathna/ravindusenavirathna/blob/39654a7fc799a8dcfeb351eb787ff754d6f5b376/programmer.gif">
+<img height=225 align="right" src="https://github.com/ravindusenavirathna/ravindusenavirathna/blob/39654a7fc799a8dcfeb351eb787ff754d6f5b376/programmer.gif">
 <div align="left">
 
 🔭 I’m currently working on [**`ExploreLanka`**](https://github.com/ravindusenavirathna/ExploreLanka) & [**`fontReco`**](https://github.com/ravindusenavirathna/fontReco)
