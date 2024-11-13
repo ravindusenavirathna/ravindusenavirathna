@@ -64,9 +64,3 @@
 [![GMail](https://img.shields.io/badge/gmail-12100E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravindusasanka0514@gmail.com)
 
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/facebook-DCDCDC?style=for-the-badge&logo=facebook&logoColor=white">
-  <img alt="facebook" src="https://img.shields.io/badge/facebook-12100E?style=for-the-badge&logo=facebook&logoColor=white">
-</picture>
