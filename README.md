@@ -6,7 +6,13 @@
 
 <p align= "justify" >Currently pursuing <strong>BSc (Hons) in Artificial Intelligence</strong> at the <strong>University of Moratuwa</strong>, Sri Lanka. With a strong background in Machine Learning and Web Technologies, I am enthusiastic about utilizing AI and full-stack development. I'm comfortable with Python, Java, C, and React, and I'm always looking to learn more and take on new challenges in AI and software development.</p>
 
-<div align="center">
+<br>
+
+<!--------------------------------------------------------------------------------------- FACTS --------------------------------------------------------------------------------------->
+
+<div>
+<img height=200 align="right" src="https://github.com/ravindusenavirathna/ravindusenavirathna/blob/39654a7fc799a8dcfeb351eb787ff754d6f5b376/programmer.gif">
+<div align="left">
 
 🔭 I’m currently working on [**`ExploreLanka`**](https://github.com/ravindusenavirathna/ExploreLanka) & [**`fontReco`**](https://github.com/ravindusenavirathna/fontReco)
 
@@ -18,6 +24,7 @@
 
 ⚡ Fun fact **I Love Bass Music & Dubstep**
 
+</div>
 </div>
 
 ##
