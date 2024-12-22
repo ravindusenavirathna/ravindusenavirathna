@@ -34,9 +34,9 @@
 <!--------------------------------------------------------------------------------------- SKILL ICONS --------------------------------------------------------------------------------------->
 
 <div align="center">
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,php,mongodb,html,css,react,js,ts,mysql,vite,spring" alt="1">
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=firebase,nodejs,arduino,bootstrap,mui,fastapi,threejs,tensorflow,pytorch,scikitlearn,opencv,anaconda,bash" alt="2">
-  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=azure,linux,vscode,idea,androidstudio,figma,sketchup,blender,octave,atom,sublime,github,git" alt="3">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=c,python,java,php,javascript,typescript,assembly,bash,html,css,react,bootstrap,materialui,threejs,spring" alt="1">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,nodejs,numpy,pandas,seaborn,opencv,scikitlearn,pytorch,tensorflow,mongodb,mysql,firebase,azure,heroku,docker" alt="2">
+  <img height=35 src="https://go-skill-icons.vercel.app/api/icons?i=blender,figma,ffmpeg,markdown,qt,vite,git,github,arduino,anaconda,androidstudio,jupyter,kaggle,vscode,idea" alt="3">
 </div>
 
 ##
