@@ -20,7 +20,7 @@
 
 💬 Ask me about **React, Python, C**
 
-📄 Know about my experiences [**`Resume`**](https://drive.google.com/file/d/156SIYMx25qTbHdW7Phyk6cZb5vNw_56l/view?usp=sharing)
+📄 Know about my experiences [**`Resume`**](https://drive.google.com/file/d/1xODT8h-8OlBV1JwXKuW0KPQbl2FXSQfo/view?usp=sharing)
 
 ⚡ Fun fact **I Love Bass Music & Dubstep**
 
