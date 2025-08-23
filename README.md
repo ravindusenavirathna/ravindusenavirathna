@@ -45,8 +45,8 @@
 
 <div align=center>
 <!--   not work -->
-<!-- <img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&border_radius=10&background=45,21121b,101224&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454" alt="GitHub Streak"/>
-<br/> -->
+<img width=450 src="https://github-readme-streak-stats.herokuapp.com?user=ravindusenavirathna&border_radius=10&background=45,21121b,101224&border=EB545400&stroke=FFFFFF&ring=EB5454&fire=EB5454&currStreakLabel=EB5454&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=EB5454&sideLabels=EB5454" alt="GitHub Streak"/>
+<br/>
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=ravindusenavirathna&show_icons=true&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&count_private=true" alt="GitHub stats"/>
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusenavirathna&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&count_private=true" alt="Top languages"/>
 </div>
