@@ -22,7 +22,7 @@
 
 📄 Know about my experiences [**`Resume`**](https://drive.google.com/file/d/1gj_4Uh1_o9yFiW5zFbdOuTn-39F_e6e5/view?usp=sharing)
 
-⚡ Fun fact **I Love Bass Music & Dubstep &** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" height="11"/>
+⚡ Fun fact **I Love** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" height="11"/> **& EDM**
 
 </div>
 </div>
