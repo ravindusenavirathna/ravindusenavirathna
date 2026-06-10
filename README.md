@@ -14,15 +14,15 @@
 <img height=225 align="right" src="https://github.com/ravindusenavirathna/ravindusenavirathna/blob/39654a7fc799a8dcfeb351eb787ff754d6f5b376/programmer.gif">
 <div align="left">
 
-🔭 I’m currently working on [**`ExploreLanka`**](https://github.com/ravindusenavirathna/ExploreLanka) & [**`fontReco`**](https://github.com/ravindusenavirathna/fontReco)
+🔭 I’m currently working on [**`Hayleys PLC Employees Managment System`**](https://github.com/ravindusenavirathna/Hayleys-PLC-Emp-Managment-System)
 
-🌱 I’m currently learning **Spring Boot, TensorFlow**
+🌱 I’m currently learning <kbd>**LangGraph, Agentic AI**</kbd>
 
-💬 Ask me about **React, Python, C**
+💬 Ask me about <kbd>**AI/ML & Full-Stack**</kbd>
 
 📄 Know about my experiences [**`Resume`**](https://drive.google.com/file/d/1gj_4Uh1_o9yFiW5zFbdOuTn-39F_e6e5/view?usp=sharing)
 
-⚡ Fun fact **I Love** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" height="11"/> **& EDM**
+⚡ Fun fact <kbd>**I Love** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/1280px-F1.svg.png" height="8"/> **& EDM**</kbd>
 
 </div>
 </div>
@@ -49,6 +49,8 @@
 <img height=160 src="https://github-readme-stats.vercel.app/api?username=ravindusenavirathna&show_icons=true&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&icon_color=EB5454&title_color=EB5454&text_color=FFFFFF&rank_icon=github&count_private=true" alt="GitHub stats"/>
 <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravindusenavirathna&size_weight=0.5&count_weight=0.5&layout=compact&border_radius=10&bg_color=45,21121b,101224&border_color=EB545400&title_color=EB5454&text_color=FFFFFF&count_private=true" alt="Top languages"/>
 </div>
+
+##
 
 <!--------------------------------------------------------------------------------------- SOCIAL MEDIA --------------------------------------------------------------------------------------->
 
