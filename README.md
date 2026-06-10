@@ -14,7 +14,7 @@
 <img height=225 align="right" src="https://github.com/ravindusenavirathna/ravindusenavirathna/blob/39654a7fc799a8dcfeb351eb787ff754d6f5b376/programmer.gif">
 <div align="left">
 
-🔭 I’m currently working on [**`Hayleys PLC Employees Managment System`**](https://github.com/ravindusenavirathna/Hayleys-PLC-Emp-Managment-System)
+🔭 I’m currently working on [**`Hayleys PLC Emp Managment System`**](https://github.com/ravindusenavirathna/Hayleys-PLC-Emp-Managment-System)
 
 🌱 I’m currently learning <kbd>**LangGraph, Agentic AI**</kbd>
 
